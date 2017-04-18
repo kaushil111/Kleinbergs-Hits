@@ -2,15 +2,15 @@
 
 # Relevant files:
 
-hits9169.java
+>hits9169.java
 
 # Compilation instructions:
 
-$ javac hits9169.java
+>$ javac hits9169.java
 
 # Instructions to run the HIITS algorithm program:
 
-$ java hits9169 iterations initialValue path_to_file_and_name
+>$ java hits9169 iterations initialValue path_to_file_and_name
 
 # Implementation and Limitations:
 
@@ -34,7 +34,7 @@ Default --> Value specified
 
 < 0 --> Precision with the number of digits corresponding to the positive value of number specified
 
-> 0 --> Number of iterations
+\> 0 --> Number of iterations
 
 # Issues:
 
